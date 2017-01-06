@@ -1,2 +1,0 @@
-# inviteyu.github.io
-pages
