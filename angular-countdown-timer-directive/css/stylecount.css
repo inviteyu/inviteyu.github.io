@@ -14,13 +14,13 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
   height: 100vh;
-  background: black;
+  background: #342800;
 }
 
 .time-to {
   text-align: center;
   font-family: Bangers;
-  color: white;
+  color: #342800;
   font-size: 35px;
   letter-spacing: 2px;
 }
